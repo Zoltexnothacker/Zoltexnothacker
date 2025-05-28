@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on a new project
 - 📫 How to reach me : Discord : zoltex999
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: im smarter than copilot
-
+- 😄 Pronouns : he/him
+- ⚡ Fun fact : im smarter than copilot
+- 🌐 Website : https://kenji-bot.fr
 <!---
 Zoltexnothacker/Zoltexnothacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
